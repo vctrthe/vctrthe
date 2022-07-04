@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vctrthe" target="blank"><img src="https://img.shields.io/twitter/follow/vctrthe?logo=twitter&style=for-the-badge" alt="vctrthe" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vctrthe?tab=repositories](https://github.com/vctrthe?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/vctrthe?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
